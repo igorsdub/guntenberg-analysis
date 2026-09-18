@@ -4,12 +4,13 @@ A cumulative project analyzing word frequencies in books from Project Gutenberg.
 
 ## Author
 
-Your Name
+Igors Dubanevics
 
 ## Books
 
 | Gutenberg ID | Title | Author | Source URL |
 |---|---|---|---|
+| 00084 | Frankenstein; or, the Modern Prometheus | Mary Wollstonecraft Shelley | <https://www.gutenberg.org/ebooks/84> |
 
 ## Filename convention
 
@@ -18,6 +19,7 @@ Book files use `<five-digit-gutenberg-id>_<hyphenated-short-title>.txt`.
 ## Repository contents
 
 - `README.md`: project description and book inventory
+- `00084_frankenstein.txt`: plain text of *Frankenstein*
 
 ## Setup
 
